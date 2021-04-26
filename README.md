@@ -50,6 +50,7 @@
 
 <h3> 🤝🏻 &nbsp;Learn with Me </h3><br>
 
+<a href="https://codepen.io/laseraashu">🐇-->CodePen</a><br>
 <a href="https://www.youtube.com/c/TechWithAashubro">📢-->YouTube</a><br>
 <a href="https://www.linkedin.com/in/aashutosh-sapkota-6b1a71187/">🔍-->Linkedin</a><br>
 <a href="https://www.instagram.com/aashutoshbro/">🧨-->Instagram</a><br>
