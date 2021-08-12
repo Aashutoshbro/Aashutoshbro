@@ -11,7 +11,7 @@
 - 🌱 &nbsp; Learning about GPS, Mapping API's ,Artificial Intelligence.
 - ✍️ &nbsp; Pursuing to be more++ creative and Blog Writing as hobbies/side tree.
 - 🎓 &nbsp; Trying to get into a better workplace.
-- 😘 &nbsp; I love my Family so much, All 23 members 😍
+- 😘 &nbsp; I love my Family so much😍
 
 
 <h3> 🛠 &nbsp;Tech Tower</h3>
