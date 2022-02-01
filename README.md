@@ -4,9 +4,9 @@
 
 <h3>  ✨🚩&nbsp;About Me </h3>
 
-- 👲 &nbsp; I'm currently working on a C programming course(CCNA)!
+- 👲 &nbsp; I'm currently working on a Java App Project!
 - 🎅 &nbsp; Exploring new technologies and Nature seriously...
-- 🎓 &nbsp; Studying Computer Science at United technical College, Affiliated to Pokhara University.
+- 🎓 &nbsp; Studying Computer Science at United technical College, Affiliated to Pokhara University 2nd semester.
 - 😎 &nbsp; I'm currently learning everything.😂
 - 🌱 &nbsp; Learning about GPS, Mapping API's ,Artificial Intelligence.
 - ✍️ &nbsp; Pursuing to be more++ creative and Blog Writing as hobbies/side tree.
