@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying Computer Science at United technical College, Affiliated to Pokhara University 2nd semester.
 - 😎 &nbsp; I'm currently learning everything.😂
 - 🌱 &nbsp; Learning about GPS, Mapping API's ,Artificial Intelligence.
-- ✍️ &nbsp; Pursuing to be more++ creative and Blog Writing as hobbies/side tree.
+- ✍️ &nbsp; Pursuing to be more++ creative and Blog Writing as hobbies.
 - 🎓 &nbsp; Trying to get into a better workplace.
 - 😘 &nbsp; I love my Family so much😍
 
