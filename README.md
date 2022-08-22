@@ -4,11 +4,10 @@
 
 <h3>  ✨🚩&nbsp;About Me </h3>
 
-- 👲 &nbsp; I'm currently working on a Java App Project!
+- 👲 &nbsp; I'm currently working in Open Source Project!
 - 🎅 &nbsp; Exploring new technologies and Nature seriously...
-- 🎓 &nbsp; Studying Computer Science at United technical College, Affiliated to Pokhara University 2nd semester.
+- 🎓 &nbsp; Studying Computer Science at United technical College, Affiliated to Pokhara University 3rd semester.
 - 😎 &nbsp; I'm currently learning everything.😂
-- 🌱 &nbsp; Learning about GPS, Mapping API's ,Artificial Intelligence.
 - ✍️ &nbsp; Pursuing to be more++ creative and Blog Writing as hobbies.
 - 🎓 &nbsp; Trying to get into a better workplace.
 - 😘 &nbsp; I love my Family so much..😍
@@ -47,12 +46,6 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Learn with Me </h3><br>
-
-<a href="https://codepen.io/laseraashu">🐇-->CodePen</a><br>
-<a href="https://www.youtube.com/c/TechWithAashubro">📢-->YouTube</a><br>
-<a href="https://www.linkedin.com/in/aashutosh-sapkota-6b1a71187/">🔍-->Linkedin</a><br>
-<a href="https://www.instagram.com/aashutoshbro/">🧨-->Instagram</a><br>
-<a href="https://twitter.com/laseraashu">💎-->Twitter</a><br>
 
 
 
