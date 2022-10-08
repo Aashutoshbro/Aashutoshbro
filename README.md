@@ -14,6 +14,11 @@
 
 
 <h3> 🛠 &nbsp;Tech Tower</h3>
+<hr>
+
+### Recently doing projects on:
+
+### C , C++ , React Native , React.js , Wordpress , Sanity , OpenGl PHP
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -38,6 +43,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Learn with Me </h3><br>
+<hr>
 
 [![@aashutoshbro's Holopin board](https://holopin.io/api/user/board?user=aashutoshbro)](https://holopin.io/@aashutoshbro)
 
