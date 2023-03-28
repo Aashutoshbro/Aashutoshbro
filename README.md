@@ -47,6 +47,7 @@
 
 [![@aashutoshbro's Holopin board](https://holopin.io/api/user/board?user=aashutoshbro)](https://holopin.io/@aashutoshbro)
 
+[intern-resume.pdf](https://github.com/Aashutoshbro/Aashutoshbro/files/11090297/intern-resume.pdf)
 
 
 
