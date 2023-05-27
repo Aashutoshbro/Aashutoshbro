@@ -15,3 +15,8 @@
 - Wordpress Theme Dev, Site Dev
 
 ⭐️BE GOOD AND DO GOOD
+
+
+You can only UNDO these things in life<br>
+<code>git reset --hard HEAD^        git push origin -f
+</code>
