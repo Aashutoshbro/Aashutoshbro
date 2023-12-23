@@ -19,3 +19,9 @@
 You can only UNDO these things in life<br>
 <code>git reset --hard HEAD^        git push origin -f
 </code>
+
+- I want to spend my time with .......
+- I want to work on interesting projects.
+- I want to travel whenever I want to.
+- I want to see my friends frequently.
+- I want to stop doing things I hate but i want to try that first.
