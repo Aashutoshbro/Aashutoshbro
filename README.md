@@ -2,7 +2,11 @@
 
 <h4> I'm Big brother ,Developer ,Designer ,Teacher ,Learner....</h4>
 
-<h3> 🤝🏻 &nbsp;Learn with Me </h3><br>
+<h3> 🤝🏻 &nbsp;Learn with Me </h3><be>
+
+<h4> - Software Engineer at <a href="https://berkeley.com.np/">Berkeley Computer</a></h4>  
+<h4> - Summer of Bitcoin 2024, Intern at <a href="https://github.com/block-core/">Blockcore</a></h4>
+
 
 🛠️ My Tech Stack:
 - HTML, CSS, JavaScript
